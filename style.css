@@ -14,10 +14,10 @@ nav {
     top: 110px;
     right: 0;
 
-}
+}margin
 
 nav li {
-    display: inline;
+    display: inline;margin
     margin: 0 0 0 15px;
 }
 
@@ -27,6 +27,11 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+}
+
+.produtos{
+    width: 940px
+    margin: 0 auto;
 }
 
 .produtos li {
