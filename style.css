@@ -35,5 +35,8 @@ nav a {
 }
 
 .produtos li {
-    display: inline-block;       
+    display: inline-block;  
+    text-aling: center;
+    width: 30%;
+    
 }
